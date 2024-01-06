@@ -1,4 +1,4 @@
-# Design_patterns_practice
+# Design_patterns
 
 Creational design patterns:
 -----------------------------
